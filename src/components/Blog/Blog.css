@@ -1,0 +1,86 @@
+.blog{
+    width: 845px;
+    height: 821px;
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+    border-bottom: 1px solid rgba(17, 17, 17, 0.15);
+    margin-bottom: 37px;
+
+}
+
+.blog img {
+    width: 845px;
+    height: 450px;
+    border-radius: 8px;
+    
+   
+}
+.blog-info{
+    margin-left: 10px;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.profile-details {
+    display: flex;
+    align-items: center;
+}
+
+.profile-details img {
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 60px;
+}
+
+.profile-details h4 {
+    margin-left: 10px;
+}
+
+.profile-details h4 span {
+    display: block;
+    font-size: 12px;
+    align-items: center;
+    font-weight: 400;
+}
+
+.time p {
+    margin-right: 15px;
+}
+
+.blog h2 {
+    width: 737px;
+    color: #111;
+    font-family: Exo 2;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+    /* 64px */
+}
+
+.blog small {
+    color: rgba(17, 17, 17, 0.60);
+    font-family: Exo 2;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%;
+    /* 32px */
+}
+
+.blog a {
+    color: #6047EC;
+    font-family: Exo 2;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration-line: underline;
+    /* border-bottom: 1px solid rgba(17, 17, 17, 0.15);;  */
+    margin-bottom: 37px;
+}

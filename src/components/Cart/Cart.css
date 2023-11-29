@@ -1,0 +1,42 @@
+.cart {
+    width: 411px;
+    height: 1352px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(17, 17, 17, 0.05);
+    
+}
+
+.cart h2 {
+    color: #111;
+    font-family: Exo 2;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160%;
+    padding-left: 30px;
+    padding-top: 30px;
+    /* 38.4px */
+}
+
+.cart-item {
+    width: 351px;
+    height: 98px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background-color: white;
+    margin-left: 30px;
+    align-items: center;
+}
+
+.cart-item h5 {
+    width: 311px;
+    color: #111;
+    font-family: Exo 2;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 160%;
+    padding: 20px;
+    /* 28.8px */
+}

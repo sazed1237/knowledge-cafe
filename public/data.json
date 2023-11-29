@@ -1,0 +1,38 @@
+[
+    {
+      "id": "656719158bff4827cf106e97",
+      "bannerImg": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=740&t=st=1701255740~exp=1701256340~hmac=e43374517f516a5d14810796f21959659c88b62117d49202810de3ff97777846",
+      "profileImg": "../src/assets/images/boy1.png",
+      "time": 5,
+      "name": "Mr. Raju",
+      "title": "How to get your first job as a self-taught programmer",
+      "publishDate": "Nav 29"
+    },
+    {
+      "id": "65671915f1d635df49f08f9c",
+      "bannerImg": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?w=740&t=st=1701255949~exp=1701256549~hmac=6948fe334fcae8f3f95a2adc663b2923b761187d5fd04ab377a2a1ce4f488840",
+      "profileImg": "../src/assets/images/girl1.jpg",
+      "time": 10,
+      "name": "Shannon Haynes",
+      "title": "How to get your first job as a self-taught programmer",
+      "publishDate": "Nav 30"
+    },
+    {
+      "id": "656719152422560dd5716b06",
+      "bannerImg": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=740&t=st=1701256083~exp=1701256683~hmac=70b67e34b028f3c2cac8945846846f9580a3b9cbf3128cf3de524b2df57a9a7d",
+      "profileImg": "../src/assets/images/boy2.png",
+      "time": 12,
+      "name": "Wendy Boyer",
+      "title": "How to get your first job as a self-taught programmer",
+      "publishDate": "Nav 29"
+    },
+    {
+      "id": "6567191558386b7c57a58d03",
+      "bannerImg": "https://img.freepik.com/free-photo/hacker-working-darkness_53876-94580.jpg?w=826&t=st=1701256235~exp=1701256835~hmac=77a0b39dbcd061e1bf2b7f01d976f89c0e50fb6f7c3712dd1e4337900738dbd1",
+      "profileImg": "../src/assets/images/girl2.jpg",
+      "time": 5,
+      "name": "Jensen Middleton",
+      "title": "hacker working in the darkness",
+      "publishDate": "Dec 01"
+    }
+  ]
